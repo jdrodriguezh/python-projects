@@ -6,5 +6,5 @@ To start the virtualenv, run `. <name of the env>\scripts\activate`
 To end the virtualenv, run deactivate
 
 Since the virtualenv folder will not get uploaded to github, we may create a requirements.txt
-To create the requirements.txt run pip `freeze > requirements.txt` (requirements.txt can be any name)
+To create the requirements.txt run `pip freeze > requirements.txt` (requirements.txt can be any name)
 To install from the requirements.txt run `pip install -r requirements.txt`
